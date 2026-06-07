@@ -375,6 +375,9 @@ MCA Final Year Project
 ### PhishSentinel — AI Powered Phishing URL Detection System
 
 ---
+## 🔗 LinkedIn Project Post+Demo Video
+[View LinkedIn Post and Demo Video](https://www.linkedin.com/posts/jigyasa-bamola_machinelearning-cybersecurity-python-ugcPost-7469240453029187585-VDS6/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAD9Gs9IBDReBc3cxpi0H-5jLQ7nZI6Rq9-M)
+---
 
 # 📄 License
 
